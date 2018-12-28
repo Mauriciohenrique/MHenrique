@@ -1,0 +1,1178 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://bit.ly/maucanais1" group-title="TABELA", NOME DO CANAL
+http://0.0.0.0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images1.folha.com.br/livraria/images/b/0/1204606-350x360.png" group-title="VER TV",Todo mundo odeia o Cris
+http://apk26.futeboltvgratis.com/live/10/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Canais filmes",A&E HD
+http://tv.factoryiptv.com:80/live/2231/2231/36929.ts 
+#EXTINF:-1 group-title="Canais 24H",A Pantera Cor de Rosa [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39576.ts
+#EXTINF:-1 group-title="Canais 24H",A Turma do Charlie Brown [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39565.ts
+#EXTINF:-1 group-title="Canais 24H",A Turma do Pateta [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/38995.ts
+#EXTINF:-1 group-title="Canais filmes",A&E
+http://tv.factoryiptv.com:80/live/2231/2231/37130.ts
+#EXTINF:-1 group-title="Canais filmes",A&E FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40263.ts
+#EXTINF:-1 group-title="Canais filmes",ABC HD
+http://tv.factoryiptv.com:80/live/2231/2231/40616.ts
+#EXTINF:-1 group-title="Canais abertos",Agro Canal
+http://tv.factoryiptv.com:80/live/2231/2231/40244.ts
+#EXTINF:-1 group-title="Canais abertos",Alpha Channel TV SD
+http://tv.factoryiptv.com:80/live/2231/2231/40190.ts
+#EXTINF:-1 group-title="Canais filmes",AMC
+http://tv.factoryiptv.com:80/live/2231/2231/41087.ts
+#EXTINF:-1 group-title="Canais filmes",AMC FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40262.ts
+#EXTINF:-1 group-title="Canais filmes",AMC HD
+http://tv.factoryiptv.com:80/live/2231/2231/36928.ts
+#EXTINF:-1 group-title="Canais 24H",amigaozao [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/40786.ts
+#EXTINF:-1 group-title="Canais",Animal Planet
+http://tv.factoryiptv.com:80/live/2231/2231/37128.ts
+#EXTINF:-1 group-title="Canais",ANIMAL PLANET FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38392.ts
+#EXTINF:-1 group-title="Canais",Animal Planet HD
+http://tv.factoryiptv.com:80/live/2231/2231/36992.ts
+#EXTINF:-1 group-title="Canais 24H",Apenas um Show [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/38993.ts
+#EXTINF:-1 group-title="Canais",Arte 1
+http://tv.factoryiptv.com:80/live/2231/2231/37133.ts
+#EXTINF:-1 group-title="Canais 24H",As Meninas Superpoderosas [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37433.ts
+#EXTINF:-1 group-title="Canais filmes",AXN
+http://tv.factoryiptv.com:80/live/2231/2231/37132.ts
+#EXTINF:-1 group-title="Canais filmes",AXN HD
+http://tv.factoryiptv.com:80/live/2231/2231/36991.ts
+#EXTINF:-1 group-title="Canais infantis",BabyTV
+http://tv.factoryiptv.com:80/live/2231/2231/36993.ts
+#EXTINF:-1 group-title="Canais abertos",Band
+http://tv.factoryiptv.com:80/live/2231/2231/37127.ts
+#EXTINF:-1 group-title="Canais abertos",BAND FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38429.ts
+#EXTINF:-1 group-title="Canais abertos",Band HD
+http://tv.factoryiptv.com:80/live/2231/2231/36990.ts
+#EXTINF:-1 group-title="Canais noticias",Band News
+http://tv.factoryiptv.com:80/live/2231/2231/37126.ts
+#EXTINF:-1 group-title="Canais noticias",BAND NEWS FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38391.ts
+#EXTINF:-1 group-title="Canais esportes",Band Sports
+http://tv.factoryiptv.com:80/live/2231/2231/37125.ts
+#EXTINF:-1 group-title="Canais noticias",Band News HD
+http://tv.factoryiptv.com:80/live/2231/2231/42411.ts
+#EXTINF:-1 group-title="Canais esportes",Band Sports HD
+http://tv.factoryiptv.com:80/live/2231/2231/36989.ts
+#EXTINF:-1 group-title="Canais musicas",Banda Calypso
+http://tv.factoryiptv.com:80/live/2231/2231/39787.ts
+#EXTINF:-1 group-title="Canais musicas",BANDA FORROZÃO DAS ANTIGAS
+http://tv.factoryiptv.com:80/live/2231/2231/39786.ts
+#EXTINF:-1 group-title="Canais filmes",Bis
+http://tv.factoryiptv.com:80/live/2231/2231/37131.ts
+#EXTINF:-1 group-title="Canais filmes",BIS FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38403.ts
+#EXTINF:-1 group-title="Canais filmes",Bis HD
+http://tv.factoryiptv.com:80/live/2231/2231/36988.ts
+#EXTINF:-1 group-title="Canais abertos",Boa Vontade TV SD
+http://tv.factoryiptv.com:80/live/2231/2231/40081.ts
+#EXTINF:-1 group-title="Canais 24H",Bob Esponja [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37431.ts
+#EXTINF:-1 group-title="Canais 24H",Bob Zoom [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/40745.ts
+#EXTINF:-1 group-title="Canais infantis",Boomerang
+http://tv.factoryiptv.com:80/live/2231/2231/37123.ts
+#EXTINF:-1 group-title="Canais infantis",BOOMERANG FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38390.ts
+#EXTINF:-1 group-title="Canais musicas",CABARE EDUARDO COSTA & LEONARDO
+http://tv.factoryiptv.com:80/live/2231/2231/39768.ts
+#EXTINF:-1 group-title="Canais abertos",Canal 26
+http://tv.factoryiptv.com:80/live/2231/2231/40146.ts
+#EXTINF:-1 group-title="Canais abertos",Canal Brasil
+http://tv.factoryiptv.com:80/live/2231/2231/37122.ts
+#EXTINF:-1 group-title="Canais abertos",Futura
+http://tv.factoryiptv.com:80/live/2231/2231/40074.ts
+#EXTINF:-1 group-title="Canais abertos",Canal Rural
+http://tv.factoryiptv.com:80/live/2231/2231/40224.ts
+#EXTINF:-1 group-title="Canais religiosos",Canção Nova
+http://tv.factoryiptv.com:80/live/2231/2231/37023.ts
+#EXTINF:-1 group-title="Canais",Cartoon Network
+http://tv.factoryiptv.com:80/live/2231/2231/37121.ts
+#EXTINF:-1 group-title="Canais",Cartoon Network HD
+http://tv.factoryiptv.com:80/live/2231/2231/36927.ts
+#EXTINF:-1 group-title="Canais",Cascavel Panorâmica
+http://tv.factoryiptv.com:80/live/2231/2231/40116.ts
+#EXTINF:-1 group-title="Canais musicas",CBN SP 90,5 FM - Estúdio Ao Vivo
+http://tv.factoryiptv.com:80/live/2231/2231/40212.ts
+#EXTINF:-1 group-title="Canais abertos",CBTV
+http://tv.factoryiptv.com:80/live/2231/2231/40195.ts
+#EXTINF:-1 group-title="Canais 24H",Chapolin Colorado [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37430.ts
+#EXTINF:-1 group-title="Canais 24H",Charlie e Lola [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39579.ts
+#EXTINF:-1 group-title="Canais 24H",Chaves [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39762.ts
+#EXTINF:-1 group-title="Canais 24H",Chaves Desenho [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37413.ts
+#EXTINF:-1 group-title="Canais filmes",Cine SKY SD
+http://tv.factoryiptv.com:80/live/2231/2231/40216.ts
+#EXTINF:-1 group-title="Canais filmes",Cinemax
+http://tv.factoryiptv.com:80/live/2231/2231/37120.ts
+#EXTINF:-1 group-title="Canais filmes",CINEMAX FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40261.ts
+#EXTINF:-1 group-title="Canais filmes",Cinemax HD
+http://tv.factoryiptv.com:80/live/2231/2231/36926.ts
+#EXTINF:-1 group-title="Canais filmes",CNN
+http://tv.factoryiptv.com:80/live/2231/2231/40609.ts
+#EXTINF:-1 group-title="Canais 24H",Cocoricó [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39582.ts
+#EXTINF:-1 group-title="Canais esportes",Combate
+http://tv.factoryiptv.com:80/live/2231/2231/37119.ts
+#EXTINF:-1 group-title="Canais esportes",Combate FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38428.ts
+#EXTINF:-1 group-title="Canais esportes",Combate HD
+http://tv.factoryiptv.com:80/live/2231/2231/36986.ts
+#EXTINF:-1 group-title="Canais",Comedy Central
+http://tv.factoryiptv.com:80/live/2231/2231/37118.ts
+#EXTINF:-1 group-title="Canais",Comedy Central. FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40260.ts
+#EXTINF:-1 group-title="Canais",Comedy Central HD
+http://tv.factoryiptv.com:80/live/2231/2231/36925.ts
+#EXTINF:-1 group-title="Canais",Cooking Channel SD
+http://tv.factoryiptv.com:80/live/2231/2231/40611.ts
+#EXTINF:-1 group-title="Canais",Crystal Bay Beach Resort
+https://youtu.be/tWshcGQ8K60
+#EXTINF:-1 group-title="Canais",Cultura
+http://tv.factoryiptv.com:80/live/2231/2231/40073.ts
+#EXTINF:-1 group-title="Canais",Curta!
+http://tv.factoryiptv.com:80/live/2231/2231/37117.ts
+#EXTINF:-1 group-title="Canais musicas",David Guetta
+http://tv.factoryiptv.com:80/live/2231/2231/39785.ts
+#EXTINF:-1 group-title="Canais 24H",Desenhos Biblicos [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39780.ts
+#EXTINF:-1 group-title="Canais",Discovery Channel
+http://tv.factoryiptv.com:80/live/2231/2231/37116.ts
+#EXTINF:-1 group-title="Canais",DISCOVERY CHANNEL FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38404.ts
+#EXTINF:-1 group-title="Canais",Discovery Channel HD
+http://tv.factoryiptv.com:80/live/2231/2231/36985.ts
+#EXTINF:-1 group-title="Canais",DISCOVERY CIVILIZATION FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40259.ts
+#EXTINF:-1 group-title="Canais",Discovery Civilization HD
+http://tv.factoryiptv.com:80/live/2231/2231/36924.ts
+#EXTINF:-1 group-title="Canais",Discovery H&H
+http://tv.factoryiptv.com:80/live/2231/2231/37115.ts
+#EXTINF:-1 group-title="Canais",DISCOVERY HOME & HEALTH FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38389.ts
+#EXTINF:-1 group-title="Canais",Discovery Home &amp; Health
+http://tv.factoryiptv.com:80/live/2231/2231/36984.ts
+#EXTINF:-1 group-title="Canais infantis",Discovery Kids
+http://tv.factoryiptv.com:80/live/2231/2231/37113.ts
+#EXTINF:-1 group-title="Canais infantis",Discovery Kids HD
+http://tv.factoryiptv.com:80/live/2231/2231/36923.ts
+#EXTINF:-1 group-title="Canais",Discovery Science HD
+http://tv.factoryiptv.com:80/live/2231/2231/36922.ts
+#EXTINF:-1 group-title="Canais",Discovery Theater HD
+http://tv.factoryiptv.com:80/live/2231/2231/36983.ts
+#EXTINF:-1 group-title="Canais",Discovery Turbo
+http://tv.factoryiptv.com:80/live/2231/2231/37112.ts
+#EXTINF:-1 group-title="Canais",Discovery Turbo FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38388.ts
+#EXTINF:-1 group-title="Canais",Discovery Turbo HD
+http://tv.factoryiptv.com:80/live/2231/2231/36982.ts
+#EXTINF:-1 group-title="Canais",Discovery World FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38387.ts
+#EXTINF:-1 group-title="Canais",Discovery World HD
+http://tv.factoryiptv.com:80/live/2231/2231/36981.ts
+#EXTINF:-1 group-title="Canais infantis",Disney Channel
+http://tv.factoryiptv.com:80/live/2231/2231/37111.ts
+#EXTINF:-1 group-title="Canais infantis",Disney Channel FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38402.ts
+#EXTINF:-1 group-title="Canais infantis",Disney Channel HD
+http://tv.factoryiptv.com:80/live/2231/2231/36921.ts
+#EXTINF:-1 group-title="Canais infantis",Disney Junior
+http://tv.factoryiptv.com:80/live/2231/2231/37110.ts
+#EXTINF:-1 group-title="Canais infantis",Disney Junior HD
+http://tv.factoryiptv.com:80/live/2231/2231/40517.ts
+#EXTINF:-1 group-title="Canais infantis",Disney XD
+http://tv.factoryiptv.com:80/live/2231/2231/37109.ts
+#EXTINF:-1 group-title="Canais",E! Entertainment Television
+http://tv.factoryiptv.com:80/live/2231/2231/37108.ts
+#EXTINF:-1 group-title="Canais",E! HD
+http://tv.factoryiptv.com:80/live/2231/2231/36920.ts
+#EXTINF:-1 group-title="Canais filmes",ESPN
+http://tv.factoryiptv.com:80/live/2231/2231/37105.ts
+#EXTINF:-1 group-title="Canais filmes",Espn Brasil
+http://tv.factoryiptv.com:80/live/2231/2231/37104.ts
+#EXTINF:-1 group-title="Canais filmes",ESPN BRASIL FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38413.ts
+#EXTINF:-1 group-title="Canais filmes",ESPN Brasil HD
+http://tv.factoryiptv.com:80/live/2231/2231/36978.ts
+#EXTINF:-1 group-title="Canais filmes",ESPN Extra FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38380.ts
+#EXTINF:-1 group-title="Canais filmes",ESPN FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38401.ts
+#EXTINF:-1 group-title="Canais filmes",ESPN HD
+http://tv.factoryiptv.com:80/live/2231/2231/36977.ts
+#EXTINF:-1 group-title="Canais filmes",ESPN Plus HD
+http://tv.factoryiptv.com:80/live/2231/2231/36976.ts
+#EXTINF:-1 group-title="Canais 24H",Eu a Patroa e as Criancas [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37440.ts
+#EXTINF:-1 group-title="Canais",Euronews HD
+http://tv.factoryiptv.com:80/live/2231/2231/40606.ts
+#EXTINF:-1 group-title="Canais musicas",FESTIVAL SERTANEJO
+http://tv.factoryiptv.com:80/live/2231/2231/39772.ts
+#EXTINF:-1 group-title="Canais musicas",Festival Sertanejo 2018
+http://tv.factoryiptv.com:80/live/2231/2231/39771.ts
+#EXTINF:-1 group-title="Canais filmes",Fish TV
+http://tv.factoryiptv.com:80/live/2231/2231/37103.ts
+#EXTINF:-1 group-title="Canais musicas",FM O Dia 100,5 FM - Estúdio Ao Vivo
+http://tv.factoryiptv.com:80/live/2231/2231/40203.ts
+#EXTINF:-1 group-title="Canais",Food Network
+http://tv.factoryiptv.com:80/live/2231/2231/37102.ts
+#EXTINF:-1 group-title="Canais",FOOD NETWORK FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40257.ts
+#EXTINF:-1 group-title="Canais",Food Network HD
+http://tv.factoryiptv.com:80/live/2231/2231/36919.ts
+#EXTINF:-1 group-title"canais filmes",Fox
+http://tv.factoryiptv.com:80/live/2231/2231/37101.ts
+#EXTINF:-1 group-title="Canais filmes",Fox 23 News HD
+http://tv.factoryiptv.com:80/live/2231/2231/40198.ts
+#EXTINF:-1 group-title="Canais filmes",FOX Comedy SD
+http://tv.factoryiptv.com:80/live/2231/2231/40617.ts
+#EXTINF:-1 group-title="Canais filmes",FOX FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38427.ts
+#EXTINF:-1 group-title="Canais filmes",Fox Channel HD
+http://tv.factoryiptv.com:80/live/2231/2231/36972.ts
+#EXTINF:-1 group-title="Canais filmes",FoxLife
+http://tv.factoryiptv.com:80/live/2231/2231/37100.ts
+#EXTINF:-1 group-title="Canais filmes",FoxLife HD
+http://tv.factoryiptv.com:80/live/2231/2231/36918.ts
+#EXTINF:-1 group-title="Canais filmes",Fox Premium 1
+http://tv.factoryiptv.com:80/live/2231/2231/37335.ts
+#EXTINF:-1 group-title="Canais filmes",Fox Premium 1  HD
+http://tv.factoryiptv.com:80/live/2231/2231/36974.ts
+#EXTINF:-1 group-title="Canais filmes",Fox Premium 2
+http://tv.factoryiptv.com:80/live/2231/2231/37336.ts
+#EXTINF:-1 group-title="Canais filmes",FOX PREMIUM 2 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38386.ts
+#EXTINF:-1 group-title="Canais filmes",Fox Premium 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36973.ts
+#EXTINF:-1 group-title="Canais esportes",Fox Sports
+http://tv.factoryiptv.com:80/live/2231/2231/37099.ts
+#EXTINF:-1 group-title="Canais esportes",Fox Sports 2
+http://tv.factoryiptv.com:80/live/2231/2231/37098.ts
+#EXTINF:-1 group-title="Canais esportes",Fox Sports 2 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38398.ts
+#EXTINF:-1 group-title="Canais esportes",Fox Sports 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36971.ts
+#EXTINF:-1 group-title="Canais esportes",Fox Sports 4K
+http://tv.factoryiptv.com:80/live/2231/2231/40784.ts
+#EXTINF:-1 group-title="Canais esportes",Fox Sports FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38412.ts
+#EXTINF:-1 group-title="Canais esportes",Fox Sports HD
+http://tv.factoryiptv.com:80/live/2231/2231/36970.ts
+#EXTINF:-1 group-title="Canais",France 24 SD
+http://tv.factoryiptv.com:80/live/2231/2231/40607.ts
+#EXTINF:-1 group-title="Canais musicas",Frank Aguiar
+http://tv.factoryiptv.com:80/live/2231/2231/39788.ts
+#EXTINF:-1 group-title="Canais 24H",Futurama [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37412.ts
+#EXTINF:-1 group-title="Canais filmes",FX
+http://tv.factoryiptv.com:80/live/2231/2231/37097.ts
+#EXTINF:-1 group-title="Canais filmes",FX HD
+http://tv.factoryiptv.com:80/live/2231/2231/36969.ts
+#EXTINF:-1 group-title="Canais 24H",Galinha Pintadinha [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39570.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Anhanguera
+http://tv.factoryiptv.com:80/live/2231/2231/38966.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO BAHIA
+http://tv.factoryiptv.com:80/live/2231/2231/37096.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Brasília
+http://tv.factoryiptv.com:80/live/2231/2231/37095.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Brasília HD
+http://tv.factoryiptv.com:80/live/2231/2231/40513.ts
+#EXTINF:-1 group-title="Canais abertos",EPTV Campinas
+http://tv.factoryiptv.com:80/live/2231/2231/40248.ts
+#EXTINF:-1 group-title="Canais abertos",EPTV Campinas HD
+http://tv.factoryiptv.com:80/live/2231/2231/40249.ts
+#EXTINF:-1 group-title="Canais abertos",EPTV Ribeirão
+http://tv.factoryiptv.com:80/live/2231/2231/40514.ts
+#EXTINF:-1 group-title="Canais abertos",EPTV Ribeirão HD
+http://tv.factoryiptv.com:80/live/2231/2231/38640.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Florianopolis
+http://tv.factoryiptv.com:80/live/2231/2231/38641.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO MG
+http://tv.factoryiptv.com:80/live/2231/2231/40250.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO MG HD
+http://tv.factoryiptv.com:80/live/2231/2231/40251.ts
+#EXTINF:-1 group-title="Canais noticias",Globo News
+http://tv.factoryiptv.com:80/live/2231/2231/37093.ts
+#EXTINF:-1 group-title="Canais noticias",Globo News FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38397.ts
+#EXTINF:-1 group-title="Canais noticias",Globo News HD
+http://tv.factoryiptv.com:80/live/2231/2231/36917.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Nordeste
+http://tv.factoryiptv.com:80/live/2231/2231/37092.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Nordeste HD
+http://tv.factoryiptv.com:80/live/2231/2231/38971.ts
+#EXTINF:-1 group-title="Canais abertos",RBS TV Porto Alegre HD
+http://tv.factoryiptv.com:80/live/2231/2231/40252.ts
+#EXTINF:-1 group-title="Canais abertos",RBS TV Porto Alegre
+http://tv.factoryiptv.com:80/live/2231/2231/40253.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Rio
+http://tv.factoryiptv.com:80/live/2231/2231/37091.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO RJ FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38425.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Rio HD
+http://tv.factoryiptv.com:80/live/2231/2231/36968.ts
+#EXTINF:-1 group-title="Canais",Globo RPC Curitiba
+http://tv.factoryiptv.com:80/live/2231/2231/37366.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO RPC CURITIBA FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38381.ts
+#EXTINF:-1 group-title="Canais abertos",I.Sat
+http://tv.factoryiptv.com:80/live/2231/2231/37134.ts
+#EXTINF:-1 group-title="Canais abertos",GloboSat HD
+http://tv.factoryiptv.com:80/live/2231/2231/36916.ts
+#EXTINF:-1 group-title="Canais abertos",Globo SP
+http://tv.factoryiptv.com:80/live/2231/2231/37090.ts
+#EXTINF:-1 group-title="Canais abertos",Globo SP FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38424.ts
+#EXTINF:-1 group-title="Canais abertos",Globo SP HD
+http://tv.factoryiptv.com:80/live/2231/2231/37361.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO TV ANHANGUERA HD
+http://tv.factoryiptv.com:80/live/2231/2231/38967.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO TV BAHIA HD
+http://tv.factoryiptv.com:80/live/2231/2231/38968.ts
+#EXTINF:-1 group-title="Canais abertos",Gloob
+http://tv.factoryiptv.com:80/live/2231/2231/37089.ts
+#EXTINF:-1 group-title="Canais abertos",Gloob FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38396.ts
+#EXTINF:-1 group-title="Canais abertos",Gloob HD
+http://tv.factoryiptv.com:80/live/2231/2231/36915.ts
+#EXTINF:-1 group-title="Canais",GNT
+http://tv.factoryiptv.com:80/live/2231/2231/37088.ts
+#EXTINF:-1 group-title="Canais",GNT HD
+http://tv.factoryiptv.com:80/live/2231/2231/36967.ts
+#EXTINF:-1 group-title="Canais",Goiânia - Viaduto Av. T-63
+http://tv.factoryiptv.com:80/live/2231/2231/40118.ts
+#EXTINF:-1 group-title="Canais religiosos",Gospel Movie TV
+http://tv.factoryiptv.com:80/live/2231/2231/40122.ts
+#EXTINF:-1 group-title="Canais filmes",HBO
+http://tv.factoryiptv.com:80/live/2231/2231/37087.ts
+#EXTINF:-1 group-title="Canais filmes",HBO 2
+http://tv.factoryiptv.com:80/live/2231/2231/37086.ts
+#EXTINF:-1 group-title="Canais filmes",HBO 2 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38423.ts
+#EXTINF:-1 group-title="Canais filmes",HBO 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36966.ts
+#EXTINF:-1 group-title="Canais filmes",HBO 2 International
+http://tv.factoryiptv.com:80/live/2231/2231/40610.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Family
+http://tv.factoryiptv.com:80/live/2231/2231/37085.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Family HD
+http://tv.factoryiptv.com:80/live/2231/2231/36965.ts
+#EXTINF:-1 group-title="Canais filmes",HBO FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38422.ts
+#EXTINF:-1 group-title="Canais filmes",HBO HD
+http://tv.factoryiptv.com:80/live/2231/2231/36964.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Plus
+http://tv.factoryiptv.com:80/live/2231/2231/37084.ts
+#EXTINF:-1 group-title="Canais filmes",HBO PLUS E
+http://tv.factoryiptv.com:80/live/2231/2231/37083.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Plus HD
+http://tv.factoryiptv.com:80/live/2231/2231/36963.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Signature
+http://tv.factoryiptv.com:80/live/2231/2231/37082.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Signature HD
+http://tv.factoryiptv.com:80/live/2231/2231/36962.ts
+#EXTINF:-1 group-title="Canais 24H",He Man [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39776.ts
+#EXTINF:-1 group-title="Canais 24H",Hey Arnold [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/38994.ts
+#EXTINF:-1 group-title="Canais",History
+http://tv.factoryiptv.com:80/live/2231/2231/37081.ts
+#EXTINF:-1 group-title="Canais",History 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36961.ts
+#EXTINF:-1 group-title="Canais",History FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38383.ts
+#EXTINF:-1 group-title="Canais",History HD
+http://tv.factoryiptv.com:80/live/2231/2231/36960.ts
+#EXTINF:-1 group-title="Canais",HIT TV HD
+http://tv.factoryiptv.com:80/live/2231/2231/40075.ts
+#EXTINF:-1 group-title="Canais",IMPD TV
+http://tv.factoryiptv.com:80/live/2231/2231/40080.ts
+#EXTINF:-1 group-title="Canais",ID: Investigação Discovery
+http://tv.factoryiptv.com:80/live/2231/2231/37114.ts
+#EXTINF:-1 group-title="Canais",ID: Investigação Discovery HD
+http://tv.factoryiptv.com:80/live/2231/2231/36959.ts
+#EXTINF:-1 group-title="Canais musicas",JOAO NETO E FREDERICO
+http://tv.factoryiptv.com:80/live/2231/2231/39790.ts
+#EXTINF:-1 group-title="Canais 24H",Johnny Bravo [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/38996.ts
+#EXTINF:-1 group-title="Canais 24H",KND - A Turma do Bairro [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39560.ts
+#EXTINF:-1 group-title="Canais filmes",Lifetime
+http://tv.factoryiptv.com:80/live/2231/2231/37077.ts
+#EXTINF:-1 group-title="Canais filmes",LIFE TIME FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40265.ts
+#EXTINF:-1 group-title="Canais",Life Time HD
+http://tv.factoryiptv.com:80/live/2231/2231/36914.ts
+#EXTINF:-1 group-title="Canais 24H",Looney Tones [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39575.ts
+#EXTINF:-1 group-title="Canais filmes",Max
+http://tv.factoryiptv.com:80/live/2231/2231/37076.ts
+#EXTINF:-1 group-title="Canais filmes",MAX FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40268.ts
+#EXTINF:-1 group-title="Canais filmes",Max HD
+http://tv.factoryiptv.com:80/live/2231/2231/36913.ts
+#EXTINF:-1 group-title="Canais filmes",MaxPrime
+http://tv.factoryiptv.com:80/live/2231/2231/37075.ts
+#EXTINF:-1 group-title="Canais filmes",MAX PRIME E
+http://tv.factoryiptv.com:80/live/2231/2231/37074.ts
+#EXTINF:-1 group-title="Canais filmes",MaxPrime FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40269.ts
+#EXTINF:-1 group-title="Canais filmes",Max Prime HD
+http://tv.factoryiptv.com:80/live/2231/2231/36912.ts
+#EXTINF:-1 group-title="Canais filmes",Max UP
+http://tv.factoryiptv.com:80/live/2231/2231/37073.ts
+#EXTINF:-1 group-title="Canais filmes",MAX UP FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40270.ts
+#EXTINF:-1 group-title="Canais filmes",Max UP HD
+http://tv.factoryiptv.com:80/live/2231/2231/36911.ts
+#EXTINF:-1 group-title="Canais filmes",Megapix
+http://tv.factoryiptv.com:80/live/2231/2231/37072.ts
+#EXTINF:-1 group-title="Canais filmes",Megapix HD
+http://tv.factoryiptv.com:80/live/2231/2231/36958.ts
+#EXTINF:-1 group-title="Canais 24H",Mickey e Donald [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39561.ts
+#EXTINF:-1 group-title="Canais musicas",Milionario e Jose Rico
+http://tv.factoryiptv.com:80/live/2231/2231/39789.ts
+#EXTINF:-1 group-title="Canais",MLB Network HD
+http://tv.factoryiptv.com:80/live/2231/2231/40199.ts
+#EXTINF:-1 group-title="Canais",MTV
+http://tv.factoryiptv.com:80/live/2231/2231/37071.ts
+#EXTINF:-1 group-title="Canais",MTV Dance HD
+http://178.163.110.32:1024/udp/234.0.0.233:2000
+#EXTINF:-1 group-title="Canais",MTV FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40266.ts
+#EXTINF:-1 group-title="Canais",MTV HD
+http://tv.factoryiptv.com:80/live/2231/2231/36910.ts
+#EXTINF:-1 group-title="Canais",MTV Live
+http://tv.factoryiptv.com:80/live/2231/2231/40519.ts
+#EXTINF:-1 group-title="Canais",MTV LIVE HD
+http://tv.factoryiptv.com:80/live/2231/2231/40518.ts
+#EXTINF:-1 group-title="Canais",Multishow
+http://tv.factoryiptv.com:80/live/2231/2231/37070.ts
+#EXTINF:-1 group-title="Canais",Multishow HD
+http://tv.factoryiptv.com:80/live/2231/2231/36957.ts
+#EXTINF:-1 group-title="Canais musicas",Muro das Lamentações (Western Wall)
+http://tv.factoryiptv.com:80/live/2231/2231/40110.ts
+#EXTINF:-1 group-title="Canais musicas",Music Box Brazil
+http://tv.factoryiptv.com:80/live/2231/2231/37069.ts
+#EXTINF:-1 group-title="Canais",Naha Airport
+http://tv.factoryiptv.com:80/live/2231/2231/40109.ts
+#EXTINF:-1 group-title="Canais",NATIONAL GEOGRAPHICS
+http://tv.factoryiptv.com:80/live/2231/2231/37068.ts
+#EXTINF:-1 group-title="Canais",NATIONAL GEOGRAPHICS HD
+http://tv.factoryiptv.com:80/live/2231/2231/36956.ts
+#EXTINF:-1 group-title="Canais infantis",NatGeo Kids
+http://tv.factoryiptv.com:80/live/2231/2231/37067.ts
+#EXTINF:-1 group-title="Canais infantis",NatGeo Kids HD
+http://tv.factoryiptv.com:80/live/2231/2231/36909.ts
+#EXTINF:-1 group-title="Canais",National Geographic Wild
+http://tv.factoryiptv.com:80/live/2231/2231/37066.ts
+#EXTINF:-1 group-title="Canais",National Geographic Wild, FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38385.ts
+#EXTINF:-1 group-title="Canais",National Geographic Wild HD
+http://tv.factoryiptv.com:80/live/2231/2231/36955.ts
+#EXTINF:-1 group-title="Canais",NATIONAL GEOGRAPHICS FULL HD
+http://tv.factoryiptv.com:80/live/2231/2231/41280.ts
+#EXTINF:-1 group-title="Canais",NBR
+http://tv.factoryiptv.com:80/live/2231/2231/37021.ts
+#EXTINF:-1 group-title="Canais",NHK WORLD HD
+http://tv.factoryiptv.com:80/live/2231/2231/40147.ts
+#EXTINF:-1 group-title="Canais infantis",Nick Jr.
+http://tv.factoryiptv.com:80/live/2231/2231/37065.ts
+#EXTINF:-1 group-title="Canais infantis",Nick Jr. HD
+http://tv.factoryiptv.com:80/live/2231/2231/36908.ts
+#EXTINF:-1 group-title="Canais infantis",Nick
+http://tv.factoryiptv.com:80/live/2231/2231/37064.ts
+#EXTINF:-1 group-title="Canais infantis",NICK FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40039.ts
+#EXTINF:-1 group-title="Canais infantis",Nick HD
+http://tv.factoryiptv.com:80/live/2231/2231/36907.ts
+#EXTINF:-1 group-title="Canais religiosos",Novo Tempo
+http://tv.factoryiptv.com:80/live/2231/2231/39793.ts
+#EXTINF:-1 group-title="Canais",NTV SD
+http://tv.factoryiptv.com:80/live/2231/2231/40232.ts
+#EXTINF:-1 group-title="Canais 24H",O Incrivel Mundo de Gumball [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39774.ts
+#EXTINF:-1 group-title="Canais musicas",O MELHOR DO PAGODE
+http://tv.factoryiptv.com:80/live/2231/2231/39773.ts
+#EXTINF:-1 group-title="Canais 24H",Garfield [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39573.ts
+#EXTINF:-1 group-title="Canais filmes",Off
+http://tv.factoryiptv.com:80/live/2231/2231/37063.ts
+#EXTINF:-1 group-title="Canais filmes",Off HD
+http://tv.factoryiptv.com:80/live/2231/2231/36954.ts
+#EXTINF:-1 group-title="Canais 24H",Os Padrinhos Magicos [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39574.ts
+#EXTINF:-1 group-title="Canais 24H",Os Simpsons [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37438.ts
+#EXTINF:-1 group-title="Canais 24H",Os Trapalhoes [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37437.ts
+#EXTINF:-1 group-title="Canais filmes",Paramount Channe
+http://tv.factoryiptv.com:80/live/2231/2231/37062.ts
+#EXTINF:-1 group-title="Canais filmes",Paramount HD
+http://tv.factoryiptv.com:80/live/2231/2231/36953.ts
+#EXTINF:-1 group-title="Canais 24H",PATATI PATATA [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39781.ts
+#EXTINF:-1 group-title="Canais 24H",Peppa Pig [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39572.ts
+#EXTINF:-1 group-title="Canais 24H",Picapau [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/37429.ts
+#EXTINF:-1 group-title="Canais 24H",PJ Masks [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39775.ts
+#EXTINF:-1 group-title="Canais 24H",Pokemon [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39564.ts
+#EXTINF:-1 group-title="Canais",Ponte Internacional da Amizade
+http://tv.factoryiptv.com:80/live/2231/2231/40107.ts
+#EXTINF:-1 group-title="Canais 24H",Popeye [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39777.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 2
+http://tv.factoryiptv.com:80/live/2231/2231/37060.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE 2 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38410.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36952.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 3
+http://tv.factoryiptv.com:80/live/2231/2231/37059.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE 3 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38409.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 3 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36951.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 4
+http://tv.factoryiptv.com:80/live/2231/2231/37058.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE 4 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38408.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 4 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36950.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 5
+http://tv.factoryiptv.com:80/live/2231/2231/37057.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE 5 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38407.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 5 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36949.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 6
+http://tv.factoryiptv.com:80/live/2231/2231/37056.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE 6 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38406.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 6 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36906.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 7
+http://tv.factoryiptv.com:80/live/2231/2231/37017.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE 7 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38405.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 7 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36905.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere 9 SD
+http://tv.factoryiptv.com:80/live/2231/2231/41305.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE CLUBES
+http://tv.factoryiptv.com:80/live/2231/2231/37016.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE CLUBES 4K
+http://tv.factoryiptv.com:80/live/2231/2231/40783.ts
+#EXTINF:-1 group-title="Canais esportes",PREMIERE CLUBES FULL HD
+http://tv.factoryiptv.com:80/live/2231/2231/38411.ts
+#EXTINF:-1 group-title="Canais esportes",Premiere Clubes HD
+http://tv.factoryiptv.com:80/live/2231/2231/36948.ts
+#EXTINF:-1 group-title="Canais",Prime Box Brazil
+http://tv.factoryiptv.com:80/live/2231/2231/37053.ts
+#EXTINF:-1 group-title="Canais infantis",TV Ra Tim Bum
+http://tv.factoryiptv.com:80/live/2231/2231/37015.ts
+#EXTINF:-1 group-title="Canais musicas",Racionais Mc's
+http://tv.factoryiptv.com:80/live/2231/2231/39784.ts
+#EXTINF:-1 group-title="Canais",RCI SD
+http://tv.factoryiptv.com:80/live/2231/2231/40229.ts
+#EXTINF:-1 group-title="Canais abertos",Record SD
+http://tv.factoryiptv.com:80/live/2231/2231/37051.ts
+#EXTINF:-1 group-title="Canais abertos",Record FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38421.ts
+#EXTINF:-1 group-title="Canais abertos",Record HD
+http://tv.factoryiptv.com:80/live/2231/2231/36947.ts
+#EXTINF:-1 group-title="Canais noticias",Record News HD
+http://tv.factoryiptv.com:80/live/2231/2231/37050.ts
+#EXTINF:-1 group-title="Canais abertos",Rede Brasil
+http://tv.factoryiptv.com:80/live/2231/2231/37013.ts
+#EXTINF:-1 group-title="Canais abertos",Rede Minas
+http://tv.factoryiptv.com:80/live/2231/2231/40183.ts
+#EXTINF:-1 group-title="Canais abertos",Rede Plenitude TV
+http://tv.factoryiptv.com:80/live/2231/2231/40078.ts
+#EXTINF:-1 group-title="Canais abertos",Rede TV SD
+http://tv.factoryiptv.com:80/live/2231/2231/37012.ts
+#EXTINF:-1 group-title="Canais abertos",Rede TV HD
+http://tv.factoryiptv.com:80/live/2231/2231/36946.ts
+#EXTINF:-1 group-title="Canais abertos",Rede Vida
+http://tv.factoryiptv.com:80/live/2231/2231/37011.ts
+#EXTINF:-1 group-title="Canais",Rio de Janeiro - Copacabana
+http://tv.factoryiptv.com:80/live/2231/2231/40106.ts
+#EXTINF:-1 group-title="Canais",RT America SD
+http://tv.factoryiptv.com:80/live/2231/2231/40608.ts
+#EXTINF:-1 group-title="Canais abertos",SBT SD
+http://tv.factoryiptv.com:80/live/2231/2231/37048.ts
+#EXTINF:-1 group-title="Canais abertos",SBT FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38420.ts
+#EXTINF:-1 group-title="Canais abertos",SBT HD
+http://tv.factoryiptv.com:80/live/2231/2231/36945.ts
+#EXTINF:-1 group-title="Canais",Sevilla FC SD
+http://tv.factoryiptv.com:80/live/2231/2231/40752.ts
+#EXTINF:-1 group-title="Canais musicas",SHOW DA VIOLA
+http://tv.factoryiptv.com:80/live/2231/2231/39770.ts
+#EXTINF:-1 group-title="Canais musicas",Simone e Simaria Bar das Coleguinhas
+http://tv.factoryiptv.com:80/live/2231/2231/39792.ts
+#EXTINF:-1 group-title="Canais filmes",SKY News HD
+http://tv.factoryiptv.com:80/live/2231/2231/40223.ts
+#EXTINF:-1 group-title="Canais filmes",Sony SD
+http://tv.factoryiptv.com:80/live/2231/2231/37007.ts
+#EXTINF:-1 group-title="Canais filmes",Sony HD
+http://tv.factoryiptv.com:80/live/2231/2231/36987.ts
+#EXTINF:-1 group-title="Canais filmes",Space SD
+http://tv.factoryiptv.com:80/live/2231/2231/37046.ts
+#EXTINF:-1 group-title="Canais filmes",Space HD
+http://tv.factoryiptv.com:80/live/2231/2231/36944.ts
+#EXTINF:-1 group-title="Canais esportes",SporTV
+http://tv.factoryiptv.com:80/live/2231/2231/37256.ts
+#EXTINF:-1 group-title="Canais esportes",Sportv 2
+http://tv.factoryiptv.com:80/live/2231/2231/37044.ts
+#EXTINF:-1 group-title="Canais esportes",SporTV 2 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38395.ts
+#EXTINF:-1 group-title="Canais esportes",Sportv 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36943.ts
+#EXTINF:-1 group-title="Canais esportes",Sportv 3
+http://tv.factoryiptv.com:80/live/2231/2231/37006.ts
+#EXTINF:-1 group-title="Canais esportes",SporTV 3 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38394.ts
+#EXTINF:-1 group-title="Canais esportes",Sportv 3 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36942.ts
+#EXTINF:-1 group-title="Canais esportes",SPORTV 4K
+http://tv.factoryiptv.com:80/live/2231/2231/40785.ts
+#EXTINF:-1 group-title="Canais esportes",SPORTV FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38419.ts
+#EXTINF:-1 group-title="Canais esportes",Sportv HD
+http://tv.factoryiptv.com:80/live/2231/2231/37255.ts
+#EXTINF:-1 group-title="Canais religiosos",Studio Universal
+http://tv.factoryiptv.com:80/live/2231/2231/37043.ts
+#EXTINF:-1 group-title="Canais religiosos",Studio Universal FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40258.ts
+#EXTINF:-1 group-title="Canais religiosos",Studio Universal HD
+http://tv.factoryiptv.com:80/live/2231/2231/36904.ts
+#EXTINF:-1 group-title="Canais 24H",Super Choque [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/38992.ts
+#EXTINF:-1 group-title="Canais filmes",Syfy
+http://tv.factoryiptv.com:80/live/2231/2231/37042.ts
+#EXTINF:-1 group-title="Canais filmes",Syfy HD
+http://tv.factoryiptv.com:80/live/2231/2231/36903.ts
+#EXTINF:-1 group-title="Canais filmes",TBS
+http://tv.factoryiptv.com:80/live/2231/2231/37041.ts
+#EXTINF:-1 group-title="Canais filmes",TBS HD
+http://tv.factoryiptv.com:80/live/2231/2231/36940.ts
+#EXTINF:-1 group-title="Canais filmes",TCM
+http://tv.factoryiptv.com:80/live/2231/2231/37037.ts
+#EXTINF:-1 group-title="Canais",TeleBärn
+http://tv.factoryiptv.com:80/live/2231/2231/40201.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Action
+http://tv.factoryiptv.com:80/live/2231/2231/37040.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Action FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38418.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Action HD
+http://tv.factoryiptv.com:80/live/2231/2231/36939.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Cult
+http://tv.factoryiptv.com:80/live/2231/2231/37039.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Cult HD
+http://tv.factoryiptv.com:80/live/2231/2231/36901.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Fun
+http://tv.factoryiptv.com:80/live/2231/2231/37005.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Fun FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38417.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Fun HD
+http://tv.factoryiptv.com:80/live/2231/2231/36938.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Pipoca
+http://tv.factoryiptv.com:80/live/2231/2231/37038.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Pipoca FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38416.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Pipoca HD
+http://tv.factoryiptv.com:80/live/2231/2231/36937.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Premium
+http://tv.factoryiptv.com:80/live/2231/2231/36994.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Premium FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38415.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Premium HD
+http://tv.factoryiptv.com:80/live/2231/2231/36936.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Touch
+http://tv.factoryiptv.com:80/live/2231/2231/36995.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Touch FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38414.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Touch HD
+http://tv.factoryiptv.com:80/live/2231/2231/36935.ts
+#EXTINF:-1 group-title="Canais 24H",Teletubbies [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39583.ts
+#EXTINF:-1 group-title="Canais",Temple Bar
+http://tv.factoryiptv.com:80/live/2231/2231/40113.ts
+#EXTINF:-1 group-title="Canais musicas",Teodoro & Sampaio
+http://tv.factoryiptv.com:80/live/2231/2231/39791.ts
+#EXTINF:-1 group-title="Canais",Terra Viva
+http://tv.factoryiptv.com:80/live/2231/2231/37004.ts
+#EXTINF:-1 group-title="Canais",Times Square
+http://tv.factoryiptv.com:80/live/2231/2231/40112.ts
+#EXTINF:-1 group-title="Canais filmes",TLC SD
+http://tv.factoryiptv.com:80/live/2231/2231/37036.ts
+#EXTINF:-1 group-title="Canais filmes",TLC FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40256.ts
+#EXTINF:-1 group-title="Canais filmes",TLC HD
+http://tv.factoryiptv.com:80/live/2231/2231/36902.ts
+#EXTINF:-1 group-title="Canais filmes",TNT
+http://tv.factoryiptv.com:80/live/2231/2231/37035.ts
+#EXTINF:-1 group-title="Canais filmes",TNT HD
+http://tv.factoryiptv.com:80/live/2231/2231/36934.ts
+#EXTINF:-1 group-title="Canais filmes",TNT Series
+http://tv.factoryiptv.com:80/live/2231/2231/37034.ts
+#EXTINF:-1 group-title="Canais filmes",TNT Series HD
+http://tv.factoryiptv.com:80/live/2231/2231/36933.ts
+#EXTINF:-1 group-title="Canais",Tooncast
+http://tv.factoryiptv.com:80/live/2231/2231/37033.ts
+#EXTINF:-1 group-title="Canais",Top TV
+http://tv.factoryiptv.com:80/live/2231/2231/40228.ts
+#EXTINF:-1 group-title="Canais",Tru TV
+http://tv.factoryiptv.com:80/live/2231/2231/37032.ts
+#EXTINF:-1 group-title="Canais 24H",Turma da Monica [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39571.ts
+#EXTINF:-1 group-title="Canais",TV Red Bull HD
+http://tv.factoryiptv.com:80/live/2231/2231/40370.ts
+#EXTINF:-1 group-title="Canais",Tv Alvorada Espirita SD
+http://tv.factoryiptv.com:80/live/2231/2231/40128.ts
+#EXTINF:-1 group-title="Canais",AmazonSat
+http://tv.factoryiptv.com:80/live/2231/2231/40220.ts
+#EXTINF:-1 group-title="Canais religiosos",TV Aparecida
+http://tv.factoryiptv.com:80/live/2231/2231/37003.ts
+#EXTINF:-1 group-title="Canais religiosos",TV Aparecida HD
+http://tv.factoryiptv.com:80/live/2231/2231/41341.ts
+#EXTINF:-1 group-title="Canais",TV Câmara
+http://tv.factoryiptv.com:80/live/2231/2231/40189.ts
+#EXTINF:-1 group-title="Canais",TV CATVE SD
+http://tv.factoryiptv.com:80/live/2231/2231/40186.ts
+#EXTINF:-1 group-title="Canais",TV Diário SD
+http://tv.factoryiptv.com:80/live/2231/2231/40226.ts
+#EXTINF:-1 group-title="Canais",TV Escola
+http://tv.factoryiptv.com:80/live/2231/2231/36999.ts
+#EXTINF:-1 group-title="Canais religiosos",TV Evangelizar
+http://tv.factoryiptv.com:80/live/2231/2231/40072.ts
+#EXTINF:-1 group-title="Canais",TV Galega
+http://tv.factoryiptv.com:80/live/2231/2231/40236.ts
+#EXTINF:-1 group-title="Canais",Gazeta HD
+http://tv.factoryiptv.com:80/live/2231/2231/40120.ts
+#EXTINF:-1 group-title="Canais infantis",Gloobinho HD
+http://tv.factoryiptv.com:80/live/2231/2231/38969.ts
+#EXTINF:-1 group-title="Canais",TV Guará
+http://tv.factoryiptv.com:80/live/2231/2231/40185.ts
+#EXTINF:-1 group-title="Canais",TV Imaculada SD
+http://tv.factoryiptv.com:80/live/2231/2231/40127.ts
+#EXTINF:-1 group-title="Canais",TV Justiça
+http://tv.factoryiptv.com:80/live/2231/2231/40303.ts
+#EXTINF:-1 group-title="Canais",TV Litoral SD
+http://tv.factoryiptv.com:80/live/2231/2231/40233.ts
+#EXTINF:-1 group-title="Canais",TV Portal Midia SD
+http://tv.factoryiptv.com:80/live/2231/2231/40235.ts
+#EXTINF:-1 group-title="Canais religiosos",TV Rede Gospel SD
+http://tv.factoryiptv.com:80/live/2231/2231/40247.ts
+#EXTINF:-1 group-title="Canais",Tv Século 21
+http://tv.factoryiptv.com:80/live/2231/2231/40098.ts
+#EXTINF:-1 group-title="Canais",TV SENADO SD
+http://tv.factoryiptv.com:80/live/2231/2231/40302.ts
+#EXTINF:-1 group-title="Canais",TV TEM Bauru
+http://tv.factoryiptv.com:80/live/2231/2231/37030.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO TV TEM SAO JOSE DO RIO PRETO
+http://tv.factoryiptv.com:80/live/2231/2231/40516.ts
+#EXTINF:-1 group-title="Canais abertos",GLOBO TV TEM SAO JOSE DO RIO PRETO HD
+http://tv.factoryiptv.com:80/live/2231/2231/40515.ts
+#EXTINF:-1 group-title="Canais",TV TEM Sorocaba
+http://tv.factoryiptv.com:80/live/2231/2231/37029.ts
+#EXTINF:-1 group-title="Canais religiosos",Tv Universal
+http://tv.factoryiptv.com:80/live/2231/2231/40079.ts
+#EXTINF:-1 group-title="Canais religiosos",Universal Channel
+http://tv.factoryiptv.com:80/live/2231/2231/37027.ts
+#EXTINF:-1 group-title="Canais religiosos",Universal Channel HD
+http://tv.factoryiptv.com:80/live/2231/2231/36932.ts
+#EXTINF:-1 group-title="Canais",VH1 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40271.ts
+#EXTINF:-1 group-title="Canais",VH1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/36900.ts
+#EXTINF:-1 group-title="Canais",Viva
+http://tv.factoryiptv.com:80/live/2231/2231/36997.ts
+#EXTINF:-1 group-title="Canais",VIVA FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38393.ts
+#EXTINF:-1 group-title="Canais",Viva HD
+http://tv.factoryiptv.com:80/live/2231/2231/36931.ts
+#EXTINF:-1 group-title="Canais",Warner Channel
+http://tv.factoryiptv.com:80/live/2231/2231/36996.ts
+#EXTINF:-1 group-title="Canais",WARNER FHD
+http://tv.factoryiptv.com:80/live/2231/2231/38384.ts
+#EXTINF:-1 group-title="Canais",Warner HD
+http://tv.factoryiptv.com:80/live/2231/2231/36930.ts
+#EXTINF:-1 group-title="Canais",Web Tv Agua Boa SD
+http://tv.factoryiptv.com:80/live/2231/2231/40234.ts
+#EXTINF:-1 group-title="Canais",Woohoo
+http://tv.factoryiptv.com:80/live/2231/2231/37025.ts
+#EXTINF:-1 group-title="Canais",WOOHOO FHD
+http://tv.factoryiptv.com:80/live/2231/2231/40267.ts
+#EXTINF:-1 group-title="Canais",Woohoo HD
+http://tv.factoryiptv.com:80/live/2231/2231/36899.ts
+#EXTINF:-1 group-title="Canais",Arte 1 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41467.ts
+#EXTINF:-1 group-title="Canais",AXN FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41468.ts
+#EXTINF:-1 group-title="Canais esportes",Band Sports FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41469.ts
+#EXTINF:-1 group-title="Canais",Canal Brasil FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41517.ts
+#EXTINF:-1 group-title="Canais filmes",Sony FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41470.ts
+#EXTINF:-1 group-title="Canais",Cartoon Network FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41471.ts
+#EXTINF:-1 group-title="Canais",Curta! FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41472.ts
+#EXTINF:-1 group-title="Canais infantis",Discovery Kids FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41473.ts
+#EXTINF:-1 group-title="Canais",Discovery Science FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41474.ts
+#EXTINF:-1 group-title="Canais",Discovery Theater FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41475.ts
+#EXTINF:-1 group-title="Canais infantis",Disney Junior  FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41512.ts
+#EXTINF:-1 group-title="Canais",E! FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41476.ts
+#EXTINF:-1 group-title="Canais filmes",ESPN 2 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41477.ts
+#EXTINF:-1 group-title="Canais filmes",Fish TV FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41478.ts
+#EXTINF:-1 group-title="Canais filmes",Fox Life FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41479.ts
+#EXTINF:-1 group-title="Canais filmes",Fox Premium 1 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41480.ts
+#EXTINF:-1 group-title="Canais abertos",Futura FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41481.ts
+#EXTINF:-1 group-title="Canais filmes",FX FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41482.ts
+#EXTINF:-1 group-title="Canais infantis",Gloobinho FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41483.ts
+#EXTINF:-1 group-title="Canais",GNT FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41484.ts
+#EXTINF:-1 group-title="Canais",H2 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41485.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Family FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41486.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Plus FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41487.ts
+#EXTINF:-1 group-title="Canais filmes",HBO Signature FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41488.ts
+#EXTINF:-1 group-title="Canais",Investigação Discovery FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41489.ts
+#EXTINF:-1 group-title="Canais",Lifetime FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41490.ts
+#EXTINF:-1 group-title="Canais",Megapix FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41491.ts
+#EXTINF:-1 group-title="Canais",MTV Live FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41492.ts
+#EXTINF:-1 group-title="Canais",Multishow FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41493.ts
+#EXTINF:-1 group-title="Canais",Music Box Brazil FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41494.ts
+#EXTINF:-1 group-title="Canais",National Geographic FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41495.ts
+#EXTINF:-1 group-title="Canais",NatGeo Kids FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41496.ts
+#EXTINF:-1 group-title="Canais",National Geographic Wild FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41497.ts
+#EXTINF:-1 group-title="Canais infantis",Nick Jr. FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41498.ts
+#EXTINF:-1 group-title="Canais",OFF FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41499.ts
+#EXTINF:-1 group-title="Canais filmes",Paramount Channel FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41500.ts
+#EXTINF:-1 group-title="Canais infantis",PLAY KIDS FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41522.ts
+#EXTINF:-1 group-title="Canais",Prime Box Brazil FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41501.ts
+#EXTINF:-1 group-title="Canais abertos",Record TV Minas FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41520.ts
+#EXTINF:-1 group-title="Canais noticias",Record News FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41502.ts
+#EXTINF:-1 group-title="Canais abertos",Record TV Rio FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41521.ts
+#EXTINF:-1 group-title="Canais abertos",Record SP FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41516.ts
+#EXTINF:-1 group-title="Canais abertos",Rede TV FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41518.ts
+#EXTINF:-1 group-title="Canais abertos",Rede Vida FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41519.ts
+#EXTINF:-1 group-title="Canais filmes",Space FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41503.ts
+#EXTINF:-1 group-title="Canais filmes",Syfy FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41504.ts
+#EXTINF:-1 group-title="Canais filmes",TBS FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41505.ts
+#EXTINF:-1 group-title="Canais filmes",Telecine Cult FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41506.ts
+#EXTINF:-1 group-title="Canais filmes",TNT FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41507.ts
+#EXTINF:-1 group-title="Canais filmes",TNT Series FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41508.ts
+#EXTINF:-1 group-title="Canais",24Kitchen HD
+http://tv.factoryiptv.com:80/live/2231/2231/42645.ts
+#EXTINF:-1 group-title="Canais",AXN Black HD
+http://tv.factoryiptv.com:80/live/2231/2231/42646.ts
+#EXTINF:-1 group-title="Canais",begannnn
+http://tv.factoryiptv.com:80/live/2231/2231/42633.ts
+#EXTINF:-1 group-title="Canais",BeIN Box Office 1
+http://tv.factoryiptv.com:80/live/2231/2231/42689.ts
+#EXTINF:-1 group-title="Canais",BeIN Laliga 1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42680.ts
+#EXTINF:-1 group-title="Canais",BeIN Laliga 2
+http://tv.factoryiptv.com:80/live/2231/2231/42682.ts
+#EXTINF:-1 group-title="Canais",BeIN Laliga 2 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/42681.ts
+#EXTINF:-1 group-title="Canais",BeIN Laliga 3
+http://tv.factoryiptv.com:80/live/2231/2231/42683.ts
+#EXTINF:-1 group-title="Canais",BeIN Laliga 4
+http://tv.factoryiptv.com:80/live/2231/2231/42684.ts
+#EXTINF:-1 group-title="Canais",BeIN Laliga 5
+http://tv.factoryiptv.com:80/live/2231/2231/42685.ts
+#EXTINF:-1 group-title="Canais",BeIN Laliga 7
+http://tv.factoryiptv.com:80/live/2231/2231/42687.ts
+#EXTINF:-1 group-title="Canais",BeIN Laliga 8
+http://tv.factoryiptv.com:80/live/2231/2231/42688.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 1 4K
+http://tv.factoryiptv.com:80/live/2231/2231/42690.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 1 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/42691.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42692.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 10 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42693.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 11 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42694.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 12 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42695.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 14 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42696.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 15 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42697.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 16 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42698.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 2 4K
+http://tv.factoryiptv.com:80/live/2231/2231/42699.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42700.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 3 4K
+http://tv.factoryiptv.com:80/live/2231/2231/42701.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 3 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/42703.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 3 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42702.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 4 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/42704.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 4 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42705.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 5 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/42706.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 5 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42707.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 6 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/42708.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 6 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42709.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 7 FHD
+http://tv.factoryiptv.com:80/live/2231/2231/42710.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 7 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42711.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 8 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42712.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports 9 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42713.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports Global
+http://tv.factoryiptv.com:80/live/2231/2231/42714.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports NBA HD
+http://tv.factoryiptv.com:80/live/2231/2231/42715.ts
+#EXTINF:-1 group-title="Canais",BeIN Sports News
+http://tv.factoryiptv.com:80/live/2231/2231/42716.ts
+#EXTINF:-1 group-title="Canais",Benfica TV 1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42647.ts
+#EXTINF:-1 group-title="Canais",Benfica TV 2
+http://tv.factoryiptv.com:80/live/2231/2231/42648.ts
+#EXTINF:-1 group-title="Canais",Biggs SD
+http://tv.factoryiptv.com:80/live/2231/2231/42649.ts
+#EXTINF:-1 group-title="Canais",Cacavision HD
+http://tv.factoryiptv.com:80/live/2231/2231/42650.ts
+#EXTINF:-1 group-title="Canais",Canal Panda SD
+http://tv.factoryiptv.com:80/live/2231/2231/42651.ts
+#EXTINF:-1 group-title="Canais",CBS Reality SD
+http://tv.factoryiptv.com:80/live/2231/2231/42652.ts
+#EXTINF:-1 group-title="Canais",Chelsea TV HD
+http://tv.factoryiptv.com:80/live/2231/2231/42653.ts
+#EXTINF:-1 group-title="Canais",Cine Mundo SD
+http://tv.factoryiptv.com:80/live/2231/2231/42654.ts
+#EXTINF:-1 group-title="Canais",Dazn 1 IT
+http://tv.factoryiptv.com:80/live/2231/2231/42717.ts
+#EXTINF:-1 group-title="Canais",Dazn 10 IT
+http://tv.factoryiptv.com:80/live/2231/2231/42718.ts
+#EXTINF:-1 group-title="Canais",Dazn 11 IT
+http://tv.factoryiptv.com:80/live/2231/2231/42719.ts
+#EXTINF:-1 group-title="Canais",Dazn 2 IT
+http://tv.factoryiptv.com:80/live/2231/2231/42720.ts
+#EXTINF:-1 group-title="Canais",Dazn 4 IT
+http://tv.factoryiptv.com:80/live/2231/2231/42721.ts
+#EXTINF:-1 group-title="Canais",Dazn 5 IT
+http://tv.factoryiptv.com:80/live/2231/2231/42722.ts
+#EXTINF:-1 group-title="Canais",Dora A Aventureira [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/42642.ts
+#EXTINF:-1 group-title="Canais",Entertainment
+http://tv.factoryiptv.com:80/live/2231/2231/42655.ts
+#EXTINF:-1 group-title="Canais",Euronews
+http://tv.factoryiptv.com:80/live/2231/2231/42656.ts
+#EXTINF:-1 group-title="Canais",EuroSport
+http://tv.factoryiptv.com:80/live/2231/2231/42657.ts
+#EXTINF:-1 group-title="Canais",Eurosport 1 IT HD
+http://tv.factoryiptv.com:80/live/2231/2231/42723.ts
+#EXTINF:-1 group-title="Canais",Eurosport 2 IT HD
+http://tv.factoryiptv.com:80/live/2231/2231/42724.ts
+#EXTINF:-1 group-title="Canais",Fishing TV  IT
+http://tv.factoryiptv.com:80/live/2231/2231/42725.ts
+#EXTINF:-1 group-title="Canais",FOX Animation HD IT
+http://tv.factoryiptv.com:80/live/2231/2231/42726.ts
+#EXTINF:-1 group-title="Canais",Gambero Rosso IT
+http://tv.factoryiptv.com:80/live/2231/2231/42727.ts
+#EXTINF:-1 group-title="Canais",Giallo IT
+http://tv.factoryiptv.com:80/live/2231/2231/42728.ts
+#EXTINF:-1 group-title="Canais abertos",Globo TV
+http://tv.factoryiptv.com:80/live/2231/2231/42658.ts
+#EXTINF:-1 group-title="Canais",Hollywood
+http://tv.factoryiptv.com:80/live/2231/2231/42659.ts
+#EXTINF:-1 group-title="Canais",Italia 1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42729.ts
+#EXTINF:-1 group-title="Canais",Italia 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42730.ts
+#EXTINF:-1 group-title="Canais",Juventus Channel
+http://tv.factoryiptv.com:80/live/2231/2231/42731.ts
+#EXTINF:-1 group-title="Canais esportes",Combate Sports
+http://tv.factoryiptv.com:80/live/2231/2231/42660.ts
+#EXTINF:-1 group-title="Canais",LIfestyle TV
+http://tv.factoryiptv.com:80/live/2231/2231/42661.ts
+#EXTINF:-1 group-title="Canais",MCS Extreme
+http://tv.factoryiptv.com:80/live/2231/2231/42662.ts
+#EXTINF:-1 group-title="Canais",Milan Channel
+http://tv.factoryiptv.com:80/live/2231/2231/42732.ts
+#EXTINF:-1 group-title="Canais",Moranguinho [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/42639.ts
+#EXTINF:-1 group-title="Canais",Motorvision HD
+http://tv.factoryiptv.com:80/live/2231/2231/42663.ts
+#EXTINF:-1 group-title="Canais",MTV Portugal HD
+http://tv.factoryiptv.com:80/live/2231/2231/42664.ts
+#EXTINF:-1 group-title="Canais esportes",NBA TV
+http://tv.factoryiptv.com:80/live/2231/2231/42665.ts
+#EXTINF:-1 group-title="Canais 24H",Os Flintstones [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/42641.ts
+#EXTINF:-1 group-title="Canais 24H",Patrulha Canina [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/42643.ts
+#EXTINF:-1 group-title="Canais",Porto Canal
+http://tv.factoryiptv.com:80/live/2231/2231/42666.ts
+#EXTINF:-1 group-title="Canais",Premium Emotion
+http://tv.factoryiptv.com:80/live/2231/2231/42733.ts
+#EXTINF:-1 group-title="Canais",Premium Energy
+http://tv.factoryiptv.com:80/live/2231/2231/42734.ts
+#EXTINF:-1 group-title="Canais",Premium Sport 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42735.ts
+#EXTINF:-1 group-title="Canais",Premium Sport HD
+http://tv.factoryiptv.com:80/live/2231/2231/42736.ts
+#EXTINF:-1 group-title="Canais",Rai 1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42737.ts
+#EXTINF:-1 group-title="Canais",Rai 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42738.ts
+#EXTINF:-1 group-title="Canais",Rai 3 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42739.ts
+#EXTINF:-1 group-title="Canais",Rai 4
+http://tv.factoryiptv.com:80/live/2231/2231/42740.ts
+#EXTINF:-1 group-title="Canais",Rai 5
+http://tv.factoryiptv.com:80/live/2231/2231/42741.ts
+#EXTINF:-1 group-title="Canais",Rai Sport 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42742.ts
+#EXTINF:-1 group-title="Canais",Rai Sport Plus HD
+http://tv.factoryiptv.com:80/live/2231/2231/42743.ts
+#EXTINF:-1 group-title="Canais",Recruta Zero [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/42644.ts
+#EXTINF:-1 group-title="Canais",RTP 1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42667.ts
+#EXTINF:-1 group-title="Canais",RTP 2
+http://tv.factoryiptv.com:80/live/2231/2231/42668.ts
+#EXTINF:-1 group-title="Canais",RTP 3
+http://tv.factoryiptv.com:80/live/2231/2231/42669.ts
+#EXTINF:-1 group-title="Canais",RTP Acores
+http://tv.factoryiptv.com:80/live/2231/2231/42670.ts
+#EXTINF:-1 group-title="Canais",RTP Africa
+http://tv.factoryiptv.com:80/live/2231/2231/42671.ts
+#EXTINF:-1 group-title="Canais",Sky Atlantic HD
+http://tv.factoryiptv.com:80/live/2231/2231/42744.ts
+#EXTINF:-1 group-title="Canais",Sky Calcio 1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42745.ts
+#EXTINF:-1 group-title="Canais",Sky Calcio 2 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42746.ts
+#EXTINF:-1 group-title="Canais",Sky Moto GP HD
+http://tv.factoryiptv.com:80/live/2231/2231/42747.ts
+#EXTINF:-1 group-title="Canais",Sky Sport 1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42748.ts
+#EXTINF:-1 group-title="Canais",Sky Sport 24 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42749.ts
+#EXTINF:-1 group-title="Canais",Sky Sport 3 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42750.ts
+#EXTINF:-1 group-title="Canais",Sky Sport F1 HD
+http://tv.factoryiptv.com:80/live/2231/2231/42751.ts
+#EXTINF:-1 group-title="Canais",Sport Italia
+http://tv.factoryiptv.com:80/live/2231/2231/42752.ts
+#EXTINF:-1 group-title="Canais",Sport TV 1 PT
+http://tv.factoryiptv.com:80/live/2231/2231/42672.ts
+#EXTINF:-1 group-title="Canais",Sport TV 2 PT
+http://tv.factoryiptv.com:80/live/2231/2231/42673.ts
+#EXTINF:-1 group-title="Canais",Sport TV 3 PT
+http://tv.factoryiptv.com:80/live/2231/2231/42674.ts
+#EXTINF:-1 group-title="Canais",Sport TV 4 PT
+http://tv.factoryiptv.com:80/live/2231/2231/42675.ts
+#EXTINF:-1 group-title="Canais",Sporting TV
+http://tv.factoryiptv.com:80/live/2231/2231/42676.ts
+#EXTINF:-1 group-title="Canais",Super Tennis HD
+http://tv.factoryiptv.com:80/live/2231/2231/42753.ts
+#EXTINF:-1 group-title="Canais",Travel Channel HD
+http://tv.factoryiptv.com:80/live/2231/2231/42677.ts
+#EXTINF:-1 group-title="Canais",TV Series
+http://tv.factoryiptv.com:80/live/2231/2231/42679.ts
+#EXTINF:-1 group-title="Canais",TVI Reality
+http://tv.factoryiptv.com:80/live/2231/2231/42678.ts
+#EXTINF:-1 group-title="Canais 24H",Ursinhos Carinhosos [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/42640.ts
+#EXTINF:-1 group-title="Canais",TRUTV FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41509.ts
+#EXTINF:-1 group-title="Canais infantis",TV RA TIM BUM FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41510.ts
+#EXTINF:-1 group-title="Canais religiosos",UNIVERSAL CHANNEL FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41511.ts
+#EXTINF:-1 group-title="Canais abertos",Band SP FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41514.ts
+#EXTINF:-1 group-title="Canais abertos",Band SP HD
+http://tv.factoryiptv.com:80/live/2231/2231/41530.ts
+#EXTINF:-1 group-title="Canais abertos",Globo Minas FHD
+http://tv.factoryiptv.com:80/live/2231/2231/41515.ts
+#EXTINF:-1 group-title="Canais noticias",Record News
+http://tv.factoryiptv.com:80/live/2231/2231/41529.ts
+#EXTINF:-1 group-title="Canais",Zatch Bell [24h]
+http://tv.factoryiptv.com:80/live/2231/2231/39562.ts
+
